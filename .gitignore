@@ -1,0 +1,5 @@
+.env
+# abc/index.js
+
+#chỉ - file js thì tất cả đc lên
+abc/*.js        
